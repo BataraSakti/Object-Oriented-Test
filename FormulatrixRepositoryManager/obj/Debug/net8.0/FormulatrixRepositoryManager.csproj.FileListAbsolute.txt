@@ -1,0 +1,24 @@
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\bin\Debug\net8.0\FormulatrixRepositoryManager.deps.json
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\bin\Debug\net8.0\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\bin\Debug\net8.0\FormulatrixRepositoryManager.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.csproj.AssemblyReference.cache
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.AssemblyInfoInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.AssemblyInfo.cs
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.csproj.CoreCompileInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\refint\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\FormulatrixRepositoryManager\obj\Debug\net8.0\ref\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\bin\Debug\net8.0\FormulatrixRepositoryManager.deps.json
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\bin\Debug\net8.0\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\bin\Debug\net8.0\FormulatrixRepositoryManager.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.csproj.AssemblyReference.cache
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.AssemblyInfoInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.AssemblyInfo.cs
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.csproj.CoreCompileInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\refint\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\FormulatrixRepositoryManager.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\FormulatrixRepositoryManager\obj\Debug\net8.0\ref\FormulatrixRepositoryManager.dll

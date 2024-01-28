@@ -1,0 +1,38 @@
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\UseRepository.exe
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\UseRepository.deps.json
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\UseRepository.runtimeconfig.json
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\UseRepository.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\UseRepository.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\bin\Debug\net8.0\FormulatrixRepositoryManager.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.csproj.AssemblyReference.cache
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.AssemblyInfoInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.AssemblyInfo.cs
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.csproj.CoreCompileInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.csproj.CopyComplete
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\refint\UseRepository.dll
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\UseRepository.genruntimeconfig.cache
+D:\tetebenge\Test Skill\Formulatrix\Object Oriented Test\UseRepository\obj\Debug\net8.0\ref\UseRepository.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\UseRepository.exe
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\UseRepository.deps.json
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\UseRepository.runtimeconfig.json
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\UseRepository.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\UseRepository.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\FormulatrixRepositoryManager.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\bin\Debug\net8.0\FormulatrixRepositoryManager.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.csproj.AssemblyReference.cache
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.AssemblyInfoInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.AssemblyInfo.cs
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.csproj.CoreCompileInputs.cache
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.csproj.CopyComplete
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\refint\UseRepository.dll
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.pdb
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\UseRepository.genruntimeconfig.cache
+D:\tetebenge\Test Skill\Formulatrix\Object-Oriented-Test\UseRepository\obj\Debug\net8.0\ref\UseRepository.dll

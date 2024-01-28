@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulatrixRepositoryManager", "FormulatrixRepositoryManager\FormulatrixRepositoryManager.csproj", "{AE244D7F-3721-4A1F-A2A7-EB9AD992821B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseRepository", "UseRepository\UseRepository.csproj", "{CFA19989-81C8-4DD8-BB47-B3F7C4302263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryManagerTest", "RepositoryManagerTest\RepositoryManagerTest.csproj", "{7FC75D87-2AB8-45E0-A5D0-CAD32C5A6BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE244D7F-3721-4A1F-A2A7-EB9AD992821B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE244D7F-3721-4A1F-A2A7-EB9AD992821B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE244D7F-3721-4A1F-A2A7-EB9AD992821B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE244D7F-3721-4A1F-A2A7-EB9AD992821B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA19989-81C8-4DD8-BB47-B3F7C4302263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA19989-81C8-4DD8-BB47-B3F7C4302263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA19989-81C8-4DD8-BB47-B3F7C4302263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA19989-81C8-4DD8-BB47-B3F7C4302263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC75D87-2AB8-45E0-A5D0-CAD32C5A6BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC75D87-2AB8-45E0-A5D0-CAD32C5A6BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC75D87-2AB8-45E0-A5D0-CAD32C5A6BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC75D87-2AB8-45E0-A5D0-CAD32C5A6BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA34A71D-8A1E-4723-83EF-9BDB07E77505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA34A71D-8A1E-4723-83EF-9BDB07E77505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA34A71D-8A1E-4723-83EF-9BDB07E77505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA34A71D-8A1E-4723-83EF-9BDB07E77505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
